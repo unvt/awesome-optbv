@@ -1,5 +1,5 @@
 # awesome-optbv
-awesome apps and docs of @gsi-cyberjapan/optimal_bvmap
+awesome apps, docs, and data package of @gsi-cyberjapan/optimal_bvmap
 
 # applications (including web applications)
 - @optgeo/optbv-chrarites - optbv style with @unvt/charites
@@ -7,7 +7,7 @@ awesome apps and docs of @gsi-cyberjapan/optimal_bvmap
 # documents
 - @optgeo/optbv-spec - optbv specifications
 
-# data
+# data package
 - tbd
 
 # objective
