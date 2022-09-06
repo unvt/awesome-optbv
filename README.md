@@ -7,6 +7,7 @@ awesome apps, docs, and data package of [@gsi-cyberjapan/optimal_bvmap](https://
 - @optgeo/optbv-spec - optbv specifications
 
 ## applications (including web applications)
+- [@gsi-cyberjapan/optimal_bvmap](https://gsi-cyberjapan.github.io/optimal_bvmap/) - official demo with Mapbox GL JS v1.13.0
 - @optgeo/optbv-chrarites - optbv style with @unvt/charites
 
 ## data packages
