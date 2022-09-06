@@ -1,5 +1,5 @@
 # awesome-optbv
-awesome apps, docs, and data package of [@gsi-cyberjapan/optimal_bvmap](https://github.com/gsi-cyberjapan/optimal_bvmap)
+awesome apps, docs, and data package of [@gsi-cyberjapan/optimal_bvmap](https://github.com/gsi-cyberjapan/optimal_bvmap) ([demo](https://gsi-cyberjapan.github.io/optimal_bvmap/#14.33/36.61776/137.622))
 
 ## documents
 - @optgeo/optbv-spec - optbv specifications
