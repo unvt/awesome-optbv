@@ -8,10 +8,10 @@ awesome apps, docs, and data package of [@gsi-cyberjapan/optimal_bvmap](https://
 
 ## applications (including web applications)
 - [@gsi-cyberjapan/optimal_bvmap](https://gsi-cyberjapan.github.io/optimal_bvmap/) - official demo with Mapbox GL JS v1.13.0
-- [@optgeo/optbv-chrarites](https://github.com/optgeo/optbv-charites) - optbv style with @unvt/charites
+- [@optgeo/optbv-chrarites](https://github.com/optgeo/optbv-charites) - demo and style description with [@unvt/charites](https://github.com/unvt/charites)
 
 ## data packages
 - tbd
 
 # objective
-the objective of this repository to operationalize GSI vector tiles in an distributed hosting environments (Object #2 of the United Nations Open GIS Initiative Working Group 7: UNVT).
+the objective of this repository to operationalize GSI vector tiles in an distributed hosting environments (Object #2 of the [United Nations Open GIS Initiative](http://unopengis.org) Working Group 7: UNVT).
